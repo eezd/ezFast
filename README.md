@@ -2,3 +2,6 @@
 
 本项目参考了 [RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus)
 及  [SmartAdmin](https://gitee.com/lab1024/smart-admin) ， 感谢作者开源。
+
+- 20251119
+    - 调整项目结构, com.eezd.common 下存放公共模块, 如 core, redis, mybatis 等模块

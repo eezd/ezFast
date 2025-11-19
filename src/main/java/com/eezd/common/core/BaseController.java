@@ -1,7 +1,7 @@
-package com.eezd.core;
+package com.eezd.common.core;
 
-import com.eezd.core.domain.R;
-import com.eezd.core.utils.StringUtils;
+import com.eezd.common.core.domain.R;
+import com.eezd.common.core.utils.StringUtils;
 
 /**
  * web层通用数据处理

@@ -1,4 +1,4 @@
-package com.eezd.core.config.properties;
+package com.eezd.common.redis.config.properties;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

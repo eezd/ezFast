@@ -1,6 +1,6 @@
-package com.eezd.core.handler;
+package com.eezd.common.redis.handler;
 
-import com.eezd.core.utils.StringUtils;
+import com.eezd.common.core.utils.StringUtils;
 import org.redisson.api.NameMapper;
 
 /**

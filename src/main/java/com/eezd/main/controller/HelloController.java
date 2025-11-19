@@ -1,7 +1,7 @@
 package com.eezd.main.controller;
 
-import com.eezd.core.BaseController;
-import com.eezd.core.domain.R;
+import com.eezd.common.core.BaseController;
+import com.eezd.common.core.domain.R;
 import com.eezd.main.domain.Test;
 import com.eezd.main.service.ITestService;
 import lombok.RequiredArgsConstructor;

@@ -1,6 +1,6 @@
-package com.eezd.core.domain;
+package com.eezd.common.core.domain;
 
-import com.eezd.core.constant.HttpStatus;
+import com.eezd.common.core.constant.HttpStatus;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

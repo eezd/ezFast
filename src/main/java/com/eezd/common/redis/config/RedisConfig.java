@@ -1,10 +1,10 @@
-package com.eezd.core.config;
+package com.eezd.common.redis.config;
 
 import cn.hutool.core.util.ObjectUtil;
-import com.eezd.core.config.properties.RedissonProperties;
-import com.eezd.core.handler.KeyPrefixHandler;
-import com.eezd.core.handler.RedisExceptionHandler;
-import com.eezd.core.utils.SpringUtils;
+import com.eezd.common.core.utils.SpringUtils;
+import com.eezd.common.redis.config.properties.RedissonProperties;
+import com.eezd.common.redis.handler.KeyPrefixHandler;
+import com.eezd.common.redis.handler.RedisExceptionHandler;
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;

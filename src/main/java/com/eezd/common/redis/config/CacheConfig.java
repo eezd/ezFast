@@ -1,6 +1,6 @@
-package com.eezd.core.config;
+package com.eezd.common.redis.config;
 
-import com.eezd.core.manager.PlusSpringCacheManager;
+import com.eezd.common.redis.manager.PlusSpringCacheManager;
 import com.github.benmanes.caffeine.cache.Cache;
 import com.github.benmanes.caffeine.cache.Caffeine;
 import org.springframework.boot.autoconfigure.AutoConfiguration;

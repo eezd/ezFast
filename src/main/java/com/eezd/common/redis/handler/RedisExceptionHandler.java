@@ -1,8 +1,8 @@
-package com.eezd.core.handler;
+package com.eezd.common.redis.handler;
 
 import cn.hutool.http.HttpStatus;
 import com.baomidou.lock.exception.LockFailureException;
-import com.eezd.core.domain.R;
+import com.eezd.common.core.domain.R;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;

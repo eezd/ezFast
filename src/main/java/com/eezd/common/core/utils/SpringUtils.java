@@ -1,4 +1,4 @@
-package com.eezd.core.utils;
+package com.eezd.common.core.utils;
 
 import cn.hutool.extra.spring.SpringUtil;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;

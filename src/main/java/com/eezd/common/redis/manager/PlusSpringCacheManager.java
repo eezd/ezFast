@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.eezd.core.manager;
+package com.eezd.common.redis.manager;
 
-import com.eezd.core.utils.RedisUtils;
+import com.eezd.common.redis.utils.RedisUtils;
 import org.redisson.api.RMap;
 import org.redisson.api.RMapCache;
 import org.redisson.spring.cache.CacheConfig;

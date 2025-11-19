@@ -1,4 +1,4 @@
-package com.eezd.core.constant;
+package com.eezd.common.core.constant;
 
 /**
  * 返回状态码

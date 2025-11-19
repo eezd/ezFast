@@ -1,2 +1,2 @@
-com.eezd.core.config.RedisConfig
-com.eezd.core.config.CacheConfig
+com.eezd.common.config.RedisConfig
+com.eezd.common.config.CacheConfig

@@ -1,4 +1,4 @@
-package com.eezd.core.utils;
+package com.eezd.common.core.utils;
 
 import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.convert.Convert;

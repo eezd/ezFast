@@ -1,6 +1,6 @@
-package com.eezd.core.manager;
+package com.eezd.common.redis.manager;
 
-import com.eezd.core.utils.SpringUtils;
+import com.eezd.common.core.utils.SpringUtils;
 import org.springframework.cache.Cache;
 
 import java.util.concurrent.Callable;
